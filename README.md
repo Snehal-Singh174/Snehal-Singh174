@@ -1,5 +1,6 @@
-### Hi there 👋
+### <img src="https://github.com/Snehal-Singh174/Snehal-Singh174/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Snehal-Singh174/Snehal-Singh174/Assets/Earth.gif" width="24px">
 
+I am **Snehal Singh** pursuing BTECH Degree in Computer Engineering from <a href="https://http://www.utu.ac.in/"> <b>Uka Tarsadiya University</b>, Bardoli</a>.Eager to learn new technologies.
 <!--
 **Snehal-Singh174/Snehal-Singh174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
