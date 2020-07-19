@@ -39,4 +39,3 @@ I'm pursuing my BTECH Degree in Computer Engineering from <a href="http://www.ut
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Snehal-Singh174&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Snehal-Singh174.Snehal-Singh174)
