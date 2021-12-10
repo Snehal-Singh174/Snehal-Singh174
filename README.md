@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/welcome.gif"> -->
 <h4> <img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/Earth.gif" width="24px"> , I'm Snehal :woman_technologist:.<h4> <img align="left" width=10% src='https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/left.png'>
 </p>
-  I'm currently working as Programmer Analyst in DhiWise. Want to know about [Code Warriors](https://www.youtube.com/channel/CodeWarriors) . Get in touch to talk about tech.
+  I'm currently working as Programmer Analyst in DhiWise.
 <br><br><br>
 
 
