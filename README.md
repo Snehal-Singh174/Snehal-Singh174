@@ -1,12 +1,11 @@
 <p>
-<img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/welcome.gif">
+<!-- <img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/welcome.gif"> -->
 <h4> <img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/Earth.gif" width="24px"> , I'm Snehal :woman_technologist:.<h4>
 <br>
   <img align="left" width=10% src='https://github.com/Snehal-Singh174/Snehal-Singh174/blob/master/Assets/left.png'>
 
 </p>
-
-I'm pursuing my BTECH Degree in Computer Engineering from <a href="http://www.utu.ac.in/"> <b>Uka Tarsadiya University</b>, Bardoli</a>. Eager to learn new technologies.
+  I'm currently working as Programmer Analyst in DhiWise. Want to know about <b>Dhiwise</b> <a href="https://www.dhiwise.com/">.
 <br><br><br>
 
 
@@ -18,7 +17,7 @@ I'm pursuing my BTECH Degree in Computer Engineering from <a href="http://www.ut
 - 💬 Ask me about Android,Firebase and Python.
 - 🔭 I’m currently working on Android, Flutter and ML.
 - 🔔 Subscribe: [Code Warriors](https://www.youtube.com/channel/CodeWarriors)
-- :woman_technologist: COO at Code Warriors
+- :woman_technologist: Programmer Analyst at Dhiwise || COO at Code Warriors
 - ⚡ Fun fact: The First Computer Programmer Was a Female Mathematician.
 
 
