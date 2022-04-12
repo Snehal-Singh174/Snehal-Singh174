@@ -20,7 +20,7 @@
 
 
 ### You will find me here:
-<a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/SnehalS25536104)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sweetysingh0990)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/snehal-singh-b5119817b/)</a> <a>[<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:singhsnehal174@gmail.com)</a>
+<a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/SnehalS_)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@snehal-singh)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/snehal-singh-b5119817b/)</a> <a>[<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:singhsnehal174@gmail.com)</a>
 
 
 ---
