@@ -1,8 +1,7 @@
 <h3>
   I'm currently working as Programmer Analyst in DhiWise.
 </h3>
-<br><br><br>
-
+<br>
 
 ---
 
