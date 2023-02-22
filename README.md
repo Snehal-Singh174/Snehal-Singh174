@@ -1,5 +1,5 @@
 <h3>
-  I'm currently working as Programmer Analyst in DhiWise.
+  I'm currently working as SDE 1 in DhiWise.
 </h3>
 <br>
 
@@ -9,9 +9,9 @@
 ### About Me:
 
 - 💬 Ask me about Android,Firebase and Python.
-- 🔭 I’m currently working on Android, Flutter and ML.
+- 🔭 I’m currently working on Flutter.
 - 🔔 Subscribe: [Code Warriors](https://www.youtube.com/channel/CodeWarriors)
-- :woman_technologist: Programmer Analyst at Dhiwise || COO at Code Warriors
+- :woman_technologist: SDE 1 at Dhiwise || WTM Surat || COO at Code Warriors
 - ⚡ Fun fact: The First Computer Programmer Was a Female Mathematician.
 
 
