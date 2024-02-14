@@ -29,8 +29,8 @@
 ---
 
 
+![](https://komarev.com/ghpvc/?username=Snehal-Singh174)
 
 ![My github stats]
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal-Singh174&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="Snehal-Singh174" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehal-Singh174&count_private=true&theme=radical" alt="Snehal-Singh174" />
 
-![](https://komarev.com/ghpvc/?username=Snehal-Singh174)
