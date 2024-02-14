@@ -30,6 +30,7 @@
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Snehal-Singh174&hide=["issues"]&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
+![My github stats]
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal-Singh174&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="Snehal-Singh174" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehal-Singh174&count_private=true&theme=radical" alt="Snehal-Singh174" />
+
+![](https://komarev.com/ghpvc/?username=Snehal-Singh174)
