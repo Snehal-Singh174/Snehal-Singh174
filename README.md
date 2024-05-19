@@ -1,5 +1,5 @@
 <h3>
-  I'm currently working as SDE 1 in DhiWise.
+  I'm currently working as SDE 2 in DhiWise.
 </h3>
 <br>
 
